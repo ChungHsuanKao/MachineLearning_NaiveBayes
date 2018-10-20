@@ -6,6 +6,7 @@ Learning NLP related techniques (Bag of words, TF-IDF) and applying them with di
 
 # Related datasets and files:
 * critics.csv: Movie's rotten tomatoes Dataset
-  1. Target variable: "fresh" includes 2 categories (fresh or rotten)
+  1. Target variable: 
+     * "fresh": 2 categories (fresh or rotten)
   2. Feature variables:
      * "quote": text comments from reviewers
